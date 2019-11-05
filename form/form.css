@@ -1,0 +1,22 @@
+form {
+	border: 3px solid slategrey;
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+h1 {
+	text-align: center;
+}
+form input, form button {
+	display: block !important;
+	width: 100%;
+	box-sizing: border-box;
+	margin-bottom: 12px;
+	padding: 10px;
+}
+form button {
+	color: #fff;
+	background-color: teal;
+	outline: 0;
+}
